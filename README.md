@@ -13,7 +13,7 @@ const davidzapicom = {
   favoriteSeries: ['Suits', 'Los favoritos de midas'],
   favoriteFilms: [{
     film: 'Gladiator',
-    highlightedQuote: 'Falling down is how we grow. Staying down is how we die. | Are you not entertained?',
+    highlightedQuote: 'Falling down is how we grow. Staying down is how we die.',
   },
   {
     film: 'Fight Club',
