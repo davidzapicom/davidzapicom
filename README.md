@@ -8,7 +8,7 @@
 
 ```js
 const davidzapicom = {
-  pronouns; 'he' | 'him',
+  pronouns: 'he' | 'him',
   hobbies: ['code', 'karts', 'music', 'sport'],
   favoriteSeries: ['Suits', 'Los favoritos de midas'],
   favoriteFilms: [{
