@@ -52,8 +52,8 @@ const davidzapicom = {
 <br/>
 <div align='center'>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nextjs,react,javascript,typescript" />
-    <img src="https://skillicons.dev/icons?i=nodejs,nest,php,java,postgres,mysql,bash,markdown,jest" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,bitbucket,azure,docker,ghactions,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nest,php,java,postgres,mysql,mongo,bash,markdown,jest" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,bitbucket,azure,docker,ghactions,figma,git,postman" />
 </div>
 
  <hr/>
