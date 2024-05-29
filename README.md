@@ -28,7 +28,7 @@ const davidzapicom = {
 
 <div align='center'>
 
-🌱 I’m currently learning **Next.js** and **Github Actions**
+🌱 I’m currently learning **Next.js**
 
 💬 Ask me about **JavaScript, TypeScript, PhP... or anything [here](https://davidzapico.com/en/contact)**
 
