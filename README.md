@@ -51,9 +51,9 @@ const davidzapicom = {
 <h2 align='center'>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align='center'>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nextjs,react,javascript,typescript" />
-    <img src="https://skillicons.dev/icons?i=nodejs,nest,php,java,postgres,mysql,mongo,bash,markdown,jest" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,gitlab,bitbucket,azure,docker,ghactions,figma,git,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,nextjs,react,nuxtjs,javascript,typescript,nodejs,php,java" />
+    <img src="https://skillicons.dev/icons?i=nest,bun,postgres,mysql,mongodb,redis,sequelize,bash,markdown,jest" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,docker,azure,heroku,cloudflare,sentry,figma,git,github,ghactions,gitlab,bitbucket,postman" />
 </div>
 
  <hr/>
