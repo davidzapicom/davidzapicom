@@ -10,7 +10,7 @@
 const davidzapicom = {
   pronouns: 'he' | 'him',
   hobbies: ['code', 'karts', 'music', 'sport'],
-  favoriteSeries: ['Suits', 'Los favoritos de midas'],
+  favoriteSeries: ['Suits', 'Friends'],
   favoriteFilms: [{
     film: 'Gladiator',
     highlightedQuote: 'Falling down is how we grow. Staying down is how we die.',
