@@ -6,26 +6,6 @@
 
 <br/>
 
-```js
-const davidzapicom = {
-  pronouns: 'he' | 'him',
-  hobbies: ['code', 'karts', 'music', 'sport'],
-  favoriteSeries: ['Suits', 'Friends'],
-  favoriteFilms: [{
-    film: 'Gladiator',
-    highlightedQuote: 'Falling down is how we grow. Staying down is how we die.',
-  },
-  {
-    film: 'Fight Club',
-    highlightedQuote: "It's only after we've lost everything that we're free to do anything.",
-  }],
-  yearOfBirth: 2001,
-  location: 'Asturias, Spain',
-}
-```
-
-<br/>
-
 <div align='center'>
 
 🌱 I’m currently learning **Next.js**
