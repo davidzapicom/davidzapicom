@@ -24,15 +24,3 @@
     <img src="https://skillicons.dev/icons?i=nest,bun,postgres,mysql,mongodb,redis,sequelize,bash,markdown,jest" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,docker,azure,heroku,cloudflare,sentry,figma,git,github,ghactions,gitlab,bitbucket,postman" />
 </div>
-
- <hr/>
-
-<h2 align='center'>GitHub Stats</h2>
-
-<div>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidzapicom&show_icons=true&locale=en&layout=compact" alt="davidzapicom" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidzapicom&" alt="davidzapicom" />
-
-</div>
